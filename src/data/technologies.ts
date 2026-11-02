@@ -1,0 +1,1 @@
+export { skillGroups } from './content'
